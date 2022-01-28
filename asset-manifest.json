@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mtx_reroll/static/css/main.c081f329.css",
-    "main.js": "/mtx_reroll/static/js/main.39d8acaf.js",
+    "main.js": "/mtx_reroll/static/js/main.0c227475.js",
     "index.html": "/mtx_reroll/index.html",
     "static/media/search-solid.svg": "/mtx_reroll/static/media/search-solid.cc51b702c98798cd916ea5a3a8ca8b54.svg",
     "main.c081f329.css.map": "/mtx_reroll/static/css/main.c081f329.css.map",
-    "main.39d8acaf.js.map": "/mtx_reroll/static/js/main.39d8acaf.js.map"
+    "main.0c227475.js.map": "/mtx_reroll/static/js/main.0c227475.js.map"
   },
   "entrypoints": [
     "static/css/main.c081f329.css",
-    "static/js/main.39d8acaf.js"
+    "static/js/main.0c227475.js"
   ]
 }
