@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mtxCards/static/css/main.b94e499a.css",
-    "main.js": "/mtxCards/static/js/main.90cee29b.js",
+    "main.css": "/mtxCards/static/css/main.cfa12f25.css",
+    "main.js": "/mtxCards/static/js/main.b390fc97.js",
     "index.html": "/mtxCards/index.html",
     "static/media/search-solid.svg": "/mtxCards/static/media/search-solid.cc51b702c98798cd916ea5a3a8ca8b54.svg",
-    "main.b94e499a.css.map": "/mtxCards/static/css/main.b94e499a.css.map",
-    "main.90cee29b.js.map": "/mtxCards/static/js/main.90cee29b.js.map"
+    "main.cfa12f25.css.map": "/mtxCards/static/css/main.cfa12f25.css.map",
+    "main.b390fc97.js.map": "/mtxCards/static/js/main.b390fc97.js.map"
   },
   "entrypoints": [
-    "static/css/main.b94e499a.css",
-    "static/js/main.90cee29b.js"
+    "static/css/main.cfa12f25.css",
+    "static/js/main.b390fc97.js"
   ]
 }
